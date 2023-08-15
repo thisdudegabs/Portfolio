@@ -10,8 +10,8 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Oi, meu nome é <span className="purple">Gabriel Rocha Franco </span>
             e eu sou de <span className="purple"> São Paulo, SP.</span>
-            <br /> Estou me formando em Ciência da Computação (finaliza em 2027)
-            e programo desde 2013.
+            <br /> Estou me formando em Sistemas da Informação (finaliza em
+            2027) e programo desde 2013.
             <br />
             Atualmente, trabalho de forma freelance a mais de um ano, com o
             objetivo de ser seu futuro dev front-end. :)

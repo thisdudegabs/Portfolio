@@ -46,7 +46,7 @@ function Projects() {
               imgPath={LinkinPark}
               isBlog={false}
               title="Linkin Park"
-              description="Projeto pessoal para a banda, com próximos shows e links para compra de ingresso, videos da banda, catálogo de album loja de merch e novidades da banda. Tudo que uma pessoa precisa pra conehcer a banda!"
+              description="Projeto pessoal para a banda, com próximos shows e links para compra de ingresso, videos da banda, catálogo de album loja de merch e novidades da banda. Tudo que uma pessoa precisa pra conhecer a banda!"
               ghLink="https://github.com/thisdudegabs/linkin-park-project"
               demoLink="https://linkin-park-project.vercel.app/home"
             />
